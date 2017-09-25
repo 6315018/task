@@ -1,0 +1,6 @@
+	MOV AL,3
+	LOOP:
+	ADD AL,3
+	JMP LOOP
+	
+	END
